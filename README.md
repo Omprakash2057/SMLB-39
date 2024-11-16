@@ -15,5 +15,7 @@ https://github.com/Omprakash2057/SMLB-39/blob/main/(SML)Assignment_8.ipynb
 https://github.com/Omprakash2057/SMLB-39/blob/main/(SML)Assignment_9.ipynb
 
 https://github.com/Omprakash2057/SMLB-39/blob/main/(SML)Assignment_10(2057).ipynb
+
+https://github.com/Omprakash2057/SMLB-39/blob/main/(SML)Assignment_12_2057.ipynb
 # SMLB-39
 
